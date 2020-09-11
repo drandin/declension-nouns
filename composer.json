@@ -1,0 +1,25 @@
+{
+    "name": "drandin/declension-nouns",
+    "description": "Declension nouns for Laravel.",
+    "keywords": [
+        "Declension",
+        "noun",
+        "Laravel"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Igor Drandin",
+            "email": "idrandin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Drandin\\DeclensionNouns\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.3"
+    }
+}
